@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FelipeBDrz
 - 👀 I’m interested in ... C# em Game Dev
-- 🌱 I’m currently learning ... Algorithm and Programming with C on college and starting C3 by myself
+- 🌱 I’m currently learning ... Algorithm and Programming with C on college and starting C# by myself
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
