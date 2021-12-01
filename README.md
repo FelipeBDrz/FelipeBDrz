@@ -7,11 +7,11 @@
 
 - 🎓 &nbsp; Estudando **Engenharia da Computação** na <a href=https://unipampa.edu.br/portal/#>UNIPAMPA</a>.
 - 💼 &nbsp; Atualmente desempregado.
-- 🌱 &nbsp; Aprendendo mais sobre...
+- 🌱 &nbsp; Aprendendo mais sobre:
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
-- 🤔 &nbsp; Interessado em...
+- 🤔 &nbsp; Interessado em:
 ![C#](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=csharp&logoColor=7957D5)
 ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet&logoColor=512BD4)
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=000000)
