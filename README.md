@@ -32,6 +32,7 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Gmail Badge](https://img.shields.io/badge/-felipebdruzian@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipebdruzian@gmail.com)](mailto:felipebdruzian@gmail.com)
+[![Linkedin: Felipe](https://img.shields.io/badge/-Felipe%20B%20Druzian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipedruzian/)](https://www.linkedin.com/in/felipedruzian/)
 [![GitHub felipedruzian]( https://img.shields.io/github/followers/felipedruzian?label=follow&style=social)](https://github.com/felipedruzian)
 
 </p>
