@@ -1,7 +1,5 @@
 <!--![](https://komarev.com/ghpvc/?username=felipedruzian&color=006bed)-->
-
 <!--<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=felipedruzian&theme=nord&show_icons=true" />-->
-
 <p align="center">
 <h3> 😃 Sobre mim </h3>
 
