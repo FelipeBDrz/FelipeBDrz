@@ -3,7 +3,7 @@
 <p align="center">
 <h3> 😃 Sobre mim </h3>
 
-- 🎓 &nbsp; Graduando **Engenharia da Computação** na <a href=https://unipampa.edu.br/portal/#>UNIPAMPA</a>.
+- 🎓 &nbsp; Graduando **Engenharia de Computação** na <a href=https://unipampa.edu.br/portal/#>UNIPAMPA</a>.
 - 💼 &nbsp; Atualmente desempregado.
 - 🌱 &nbsp; Aprendendo mais sobre: 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&logoColor=E34F26)
