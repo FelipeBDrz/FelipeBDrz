@@ -9,10 +9,13 @@
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=oracle&logoColor=F80000)
 - 🤔 &nbsp; Interessado em: 
 ![C#](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=csharp&logoColor=7957D5)
 ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet&logoColor=512BD4)
-![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=000000)
+![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=FFFFFF)
+![Godot](https://img.shields.io/badge/-Godot%20Engine-333333?style=flat&logo=godotengine&logoColor=478CBF)
+
 </p>
 
 <p align="left">
@@ -29,7 +32,7 @@
 <p align="left">
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Gmail Badge](https://img.shields.io/badge/-felipebdruzian@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipebdruzian@gmail.com)](mailto:felipebdruzian@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-felipebdruzian@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipebdruzian@gmail.com)](mailto:felipebdruzian@gmail.com)
 [![Linkedin: Felipe](https://img.shields.io/badge/-Felipe%20B%20Druzian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipedruzian/)](https://www.linkedin.com/in/felipedruzian/)
 [![GitHub felipedruzian]( https://img.shields.io/github/followers/felipedruzian?label=follow&style=social)](https://github.com/felipedruzian)
 
