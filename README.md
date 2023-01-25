@@ -4,7 +4,7 @@
 <h3> 😃 Sobre mim </h3>
 
 - 🎓 &nbsp; Graduando **Engenharia de Computação** na <a href=https://unipampa.edu.br/portal/#>UNIPAMPA</a>.
-- 💼 &nbsp; Estagiário na Secretaria de Desenvolvimento Econômico e Inovação - Bagé.
+- 💼 &nbsp; Procurando emprego/estágio... 🔍
 - 🌱 &nbsp; Aprendendo mais sobre: 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
